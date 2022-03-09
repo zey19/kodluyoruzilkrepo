@@ -3,4 +3,4 @@ Bu repo Kodluyoruz Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde
 # - Installation 
 Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
 [https://github.com/zey19/kodluyoruzilkrepo](https://github.com/zey19/kodluyoruzilkrepo)
-![İlk_Repo] (C:\Users\test\Desktop\git-example\kodluyoruzilkrepo\resim.png)
+![İlk_Repo] (kodluyoruzilkrepo\resim.png)
